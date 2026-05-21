@@ -36,4 +36,4 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ## Author
 Vansh Dhiman
-Digital Business & Data Science — UE Hamburg
+-Digital Business & Data Science — UE Hamburg
